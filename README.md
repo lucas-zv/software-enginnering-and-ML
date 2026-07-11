@@ -21,6 +21,12 @@ __OUTPUT__:\
   i will try to keep my uploads as consistent as possible\
   i will have plans to move onto c++ in a little while once i grasp metaproggraming and do a mini project
 
+  __update2:__
+
+  i have stopped uploading python as i will be transitioning to c++ as that is the lnaguage i will be learning primarly.
+  python was mostly to get me into the fundemtals of coding and understanding what things do. However c++ will help me understand memory managment and efficent proggramming.
+  i will beggin to start pushing to the c++ branch
+
 
 
 
